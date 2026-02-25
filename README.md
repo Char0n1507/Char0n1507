@@ -30,7 +30,6 @@
 > Focus    : Red Teaming | Penetration Testing | Threat Detection | Detection Engineering
 > HTB      : Pro Hacker  ⬡
 > THM      : Top 1%  🔥
-> Status   : Graduate Teaching Assistant @ UNC Charlotte
 ```
 
 ---
