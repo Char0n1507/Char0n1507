@@ -93,18 +93,6 @@ class Char0n:
 
 ---
 
-## 🏆 Certifications
-
-| Badge | Certification |
-|-------|--------------|
-| 🎖️ | CompTIA **Security+** |
-| 🎖️ | eLearnSecurity **eJPTv2** |
-| 🎖️ | Microsoft **SC-900** — Security, Compliance & Identity Fundamentals |
-| 🎖️ | **MITRE ATT&CK** Foundations |
-| 🎖️ | VTF Penetration Testing Internship |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
