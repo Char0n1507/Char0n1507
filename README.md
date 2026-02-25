@@ -34,7 +34,7 @@ class Char0n:
                 "Vulnerability Assessment", "Detection Engineering"]
 
     platforms = {
-        "HackTheBox" : "Hacker Rank  ⬡",
+        "HackTheBox" : "Pro Hacker  ⬡",
         "TryHackMe"  : "Top 1%  🔥",
     }
 
