@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-char0n1507.github.io-0a0a0a?style=for-the-badge&logoColor=white)](https://char0n1507.github.io/Protfilio2.0/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sricharan--pedhiti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sricharan-pedhiti)
-[![Email](https://img.shields.io/badge/Email-contact@sricharan.io-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sricharan.io)
+[![Email](https://img.shields.io/badge/Email-sricharan.pedhiti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sricharan.pedhiti@gmail.com)
 
 </div>
 
@@ -135,7 +135,5 @@ class Char0n:
 <div align="center">
 
 *"The quieter you become, the more you can hear."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Char0n1507&color=ff4040&style=flat-square&label=Profile+Views)
 
 </div>
