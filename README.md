@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4040&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Red+Teamer+%7C+Threat+Hunter;Penetration+Tester;Detection+Engineer)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0d0d0d?style=for-the-badge&logoColor=white&labelColor=FF4040)](https://char0n1507.github.io/Protfilio2.0/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0d0d0d?style=for-the-badge&logoColor=white&labelColor=FF4040)](https://char0n1507.github.io/Char0n.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sricharan-pedhiti)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sricharan.pedhiti@gmail.com)
 
@@ -90,7 +90,7 @@ drwxr-xr-x  Omnisearch     Attack Surface Mapper
 
 | Target | Description | Stack |
 |--------|-------------|-------|
-| 🔴 [**C.O.R.E.**](https://github.com/Char0n1507/C.O.R.E) | Enterprise AI SOC Agent — automates detection, triage & response via LLMs | `Python` `AI/LLM` `Automation` |
+| 🔴 [**C.O.R.E.**](https://github.com/Char0n1507/C.O.R.E) | Sentinel Elite Enterprise AI SOC Agent — Kafka/Postgres backend, 3D Geo-Matrix, Autonomous LLM Triage & Response (Wargames Ready) | `Python` `AI/LLM` `Kafka` `SOAR` |
 | 🔴 [**ARGUS**](https://github.com/Char0n1507/ARGUS) | Next-Gen NDR using Unsupervised Deep Learning to detect zero-day exploits | `Python` `TensorFlow` `Scapy` |
 | 🔴 [**EREBUS**](https://github.com/Char0n1507/EREBUS) | AI-Powered Dark Web OSINT — Tor crawling + local LLMs (Ollama) | `Python` `Tor` `LLM` `Streamlit` |
 | 🔴 [**Omnisearch**](https://github.com/Char0n1507/Omnisearch) | All-in-one attack surface mapping — passive recon & web probing | `Python` `OSINT` `Recon` |
