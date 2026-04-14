@@ -82,6 +82,7 @@
 ## `$ ls -la /projects`
 
 ```
+drwxr-xr-x  PurpleSwarmAI  Autonomous AI Purple-Team Warzone
 drwxr-xr-x  C.O.R.E        Enterprise AI SOC Agent
 drwxr-xr-x  ARGUS          Next-Gen NDR with Deep Learning
 drwxr-xr-x  EREBUS         Dark Web OSINT Tool
@@ -90,6 +91,7 @@ drwxr-xr-x  Omnisearch     Attack Surface Mapper
 
 | Target | Description | Stack |
 |--------|-------------|-------|
+| 🟣 [**Purple Swarm AI**](https://github.com/Char0n1507/Purple-Swarm-AI) | **Autonomous Cyber Warfare Sandbox** — Gemini-driven Red/Blue AI Agents (GAN) fighting in an isolated Docker net with a custom Enterprise EDR Dashboard! | `Python` `GenAI` `Docker` `FastAPI` |
 | 🔴 [**C.O.R.E.**](https://github.com/Char0n1507/C.O.R.E) | Sentinel Elite Enterprise AI SOC Agent — Kafka/Postgres backend, 3D Geo-Matrix, Autonomous LLM Triage & Response (Wargames Ready) | `Python` `AI/LLM` `Kafka` `SOAR` |
 | 🔴 [**ARGUS**](https://github.com/Char0n1507/ARGUS) | Next-Gen NDR using Unsupervised Deep Learning to detect zero-day exploits | `Python` `TensorFlow` `Scapy` |
 | 🔴 [**EREBUS**](https://github.com/Char0n1507/EREBUS) | AI-Powered Dark Web OSINT — Tor crawling + local LLMs (Ollama) | `Python` `Tor` `LLM` `Streamlit` |
