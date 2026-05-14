@@ -71,25 +71,21 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 
 <h3 align="center">root@kali:~# ./active_operations.sh 🎯</h3>
 
-<div align="center">
-  <a href="https://github.com/Char0n1507/C.O.R.E">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=C.O.R.E&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="C.O.R.E" width="48%" />
-  </a>
-  <a href="https://github.com/Char0n1507/ARGUS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=ARGUS&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="ARGUS" width="48%" />
-  </a>
-</div>
+> 🟢 **[C.O.R.E.](https://github.com/Char0n1507/C.O.R.E)** <br>
+> `Enterprise AI SOC Agent` · *Automates detection, triage & response via LLMs.* <br>
+> **Stack:** `Python` `AI/LLM` `Automation`
 
-<br>
+> 🟢 **[ARGUS](https://github.com/Char0n1507/ARGUS)** <br>
+> `Next-Gen NDR` · *Unsupervised Deep Learning to detect zero-day exploits.* <br>
+> **Stack:** `Python` `TensorFlow` `Scapy`
 
-<div align="center">
-  <a href="https://github.com/Char0n1507/EREBUS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=EREBUS&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="EREBUS" width="48%" />
-  </a>
-  <a href="https://github.com/Char0n1507/Omnisearch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=Omnisearch&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="Omnisearch" width="48%" />
-  </a>
-</div>
+> 🟢 **[EREBUS](https://github.com/Char0n1507/EREBUS)** <br>
+> `Dark Web OSINT` · *AI-Powered Tor crawling + local LLMs (Ollama).* <br>
+> **Stack:** `Python` `Tor` `LLM` `Streamlit`
+
+> 🟢 **[Omnisearch](https://github.com/Char0n1507/Omnisearch)** <br>
+> `Attack Surface Mapping` · *All-in-one passive recon & web probing utility.* <br>
+> **Stack:** `Python` `OSINT` `Recon`
 
 ---
 
@@ -108,6 +104,6 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 
 <div align="center">
   <a href="https://app.gitbook.com/o/OzCeXZoR6hIZ3S7aPLrj/s/d1x5yxrrjMQ55ObqBQ44">
-    <img src="https://img.shields.io/badge/-DECRYPT_CTF_WRITEUPS_ON_GITBOOK-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00&color=00FF00" alt="GitBook" />
+    <img src="https://img.shields.io/badge/GITBOOK-DECRYPT_CTF_WRITEUPS-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00&labelColor=000000" alt="GitBook" />
   </a>
 </div>
