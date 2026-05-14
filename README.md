@@ -51,8 +51,7 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 <h3 align="center">System Telemetry 📊</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Char0n1507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&ring_color=00FF00" alt="Char0n's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Char0n1507&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00FF00&text_color=ffffff" alt="Most Used Languages" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=[+]+SYSTEM+DIAGNOSTICS+OK;[+]+THREAT+LEVEL:+MIDNIGHT;[+]+INTRUSION+DETECTION:+ACTIVE" alt="System Diagnostics" />
 </div>
 
 <br>
