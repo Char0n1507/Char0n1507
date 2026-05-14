@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cyber_banner.png" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sri%20Charan%20Pedhiti&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist&descAlignY=58&descSize=25" alt="Header Banner" width="100%" />
 </div>
 
 <br>
