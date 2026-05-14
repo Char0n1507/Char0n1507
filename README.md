@@ -28,7 +28,7 @@
 > Name     : Sri Charan Pedhiti
 > Role     : Cybersecurity Specialist
 > Focus    : Red Teaming | Penetration Testing | Threat Detection | Detection Engineering
-> HTB      : Elite Hacker  ⬡
+> HTB      : Guru Hacker  ⬡
 > THM      : Top 1%  🔥
 ```
 
