@@ -72,21 +72,42 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 <h3 align="center">root@kali:~# ./active_operations.sh 🎯</h3>
 
 <div align="center">
-
-| Target | Description | Tech Stack |
-|:---:|:---|:---|
-| 🔴 [**C.O.R.E.**](https://github.com/Char0n1507/C.O.R.E) | **Enterprise AI SOC Agent** | `Python` `AI/LLM` `Automation` |
-| 🔴 [**ARGUS**](https://github.com/Char0n1507/ARGUS) | **Next-Gen NDR with Deep Learning** | `Python` `TensorFlow` `Scapy` |
-| 🔴 [**EREBUS**](https://github.com/Char0n1507/EREBUS) | **Dark Web OSINT Tool** | `Python` `Tor` `LLM` `Streamlit` |
-| 🔴 [**Omnisearch**](https://github.com/Char0n1507/Omnisearch) | **Attack Surface Mapping** | `Python` `OSINT` `Recon` |
-
-<br>
-
-[![HackTheBox](https://www.hackthebox.eu/badge/image/2063634)](https://app.hackthebox.com/users/2063634)
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Char0n1507.png)](https://tryhackme.com/p/Char0n1507)
+  <a href="https://github.com/Char0n1507/C.O.R.E">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=C.O.R.E&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="C.O.R.E" width="48%" />
+  </a>
+  <a href="https://github.com/Char0n1507/ARGUS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=ARGUS&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="ARGUS" width="48%" />
+  </a>
+</div>
 
 <br>
 
-**[CTF Writeups on GitBook →](https://app.gitbook.com/o/OzCeXZoR6hIZ3S7aPLrj/s/d1x5yxrrjMQ55ObqBQ44)**
+<div align="center">
+  <a href="https://github.com/Char0n1507/EREBUS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=EREBUS&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="EREBUS" width="48%" />
+  </a>
+  <a href="https://github.com/Char0n1507/Omnisearch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=Omnisearch&theme=tokyonight&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&border_radius=0" alt="Omnisearch" width="48%" />
+  </a>
+</div>
 
+---
+
+<h3 align="center">root@kali:~# ./ctf_clearances.sh 🚩</h3>
+
+<div align="center">
+  <a href="https://app.hackthebox.com/users/2063634">
+    <img src="https://www.hackthebox.eu/badge/image/2063634" alt="HackTheBox" />
+  </a>
+  <a href="https://tryhackme.com/p/Char0n1507">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Char0n1507.png" alt="TryHackMe" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://app.gitbook.com/o/OzCeXZoR6hIZ3S7aPLrj/s/d1x5yxrrjMQ55ObqBQ44">
+    <img src="https://img.shields.io/badge/-DECRYPT_CTF_WRITEUPS_ON_GITBOOK-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00&color=00FF00" alt="GitBook" />
+  </a>
 </div>
