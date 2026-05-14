@@ -88,6 +88,14 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 
 ---
 
+<h3 align="center">root@kali:~# ./audio_stream.sh 🎧</h3>
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314lnx7y5myfpd2rqkwntxq6cch4" alt="Spotify Recently Played" />
+</div>
+
+---
+
 <h3 align="center">root@kali:~# ./ctf_clearances.sh 🚩</h3>
 
 <div align="center">
