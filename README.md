@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Char0n1507&label=TARGETS%20ACQUIRED&color=00FF00&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Char0n1507?label=ALLIES&style=for-the-badge&color=00FF00" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Char0n1507?label=STARS&style=for-the-badge&color=00FF00" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Char0n1507&label=TARGETS%20ACQUIRED&color=random&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Char0n1507?label=ALLIES&style=for-the-badge&color=random&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Char0n1507?label=STARS&style=for-the-badge&color=random&labelColor=000000" alt="Stars" />
 </div>
 
 <br>
@@ -26,7 +26,7 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 
 <h3 align="center">My GitHub Achievements 🏆</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Char0n1507&theme=hacker&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Char0n1507&theme=hacker&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" alt="Trophies" />
 </div>
 
 ---
