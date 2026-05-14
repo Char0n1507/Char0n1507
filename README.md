@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Char0n1507&label=TARGETS%20ACQUIRED&color=random&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Char0n1507?label=ALLIES&style=for-the-badge&color=random&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Char0n1507?label=STARS&style=for-the-badge&color=random&labelColor=000000" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Char0n1507&label=TARGETS%20ACQUIRED&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Char0n1507?label=ALLIES&style=for-the-badge&color=7aa2f7&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Char0n1507?label=STARS&style=for-the-badge&color=7aa2f7&labelColor=000000" alt="Stars" />
 </div>
 
 <br>
