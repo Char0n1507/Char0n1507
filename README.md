@@ -96,14 +96,16 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 
 ---
 
-<h3 align="center">root@kali:~# ./ctf_clearances.sh 🚩</h3>
+<h3 align="center">root@kali:~# ./ctf_telemetry.sh 🏆</h3>
 
 <div align="center">
+  <p><code>[+] FETCHING LIVE COMPETITIVE RANKINGS...</code></p>
   <a href="https://app.hackthebox.com/users/2063634">
-    <img src="https://www.hackthebox.eu/badge/image/2063634" alt="HackTheBox" />
+    <img src="https://www.hackthebox.eu/badge/image/2063634" alt="HackTheBox" width="45%" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://tryhackme.com/p/Char0n1507">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Char0n1507.png" alt="TryHackMe" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Char0n1507.png" alt="TryHackMe" width="45%" />
   </a>
 </div>
 
