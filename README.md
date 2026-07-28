@@ -2,120 +2,93 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sri%20Charan%20Pedhiti&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Specialist&descAlignY=58&descSize=25" alt="Header Banner" width="100%" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Char0n1507&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=$+whoami;Sri+Charan+Pedhiti;Cybersecurity+Specialist;Detection+Engineering+%7C+Threat+Hunting" alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Char0n1507&label=TARGETS%20ACQUIRED&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Char0n1507?label=ALLIES&style=for-the-badge&color=7aa2f7&labelColor=000000" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Char0n1507?label=STARS&style=for-the-badge&color=7aa2f7&labelColor=000000" alt="Stars" />
+
+[![Portfolio](https://img.shields.io/badge/Website-char0n1507.github.io-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://char0n1507.github.io/Char0n.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sri_Charan-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sricharan-pedhiti)
+[![Email](https://img.shields.io/badge/Gmail-sricharan.pedhiti@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:sricharan.pedhiti@gmail.com)
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Initializing+secure+connection...;Authentication+successful.;ROLE:+Cybersecurity+Specialist;FOCUS:+Detection+Engineering+%7C+Threat+Hunting" alt="Typing SVG" />
-</div>
+# 👋 Hi there!
+
+I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat Hunting, and Penetration Testing. 🛡️ I'm a passionate learner who loves exploring new vulnerabilities, building robust defense systems, and leveraging AI to automate SOC operations. 🚀 
+
+Currently, I'm diving deep into **Red Teaming** ⚔️ and expanding my **Adversary Emulation** skills 🎯.
+
+---
+
+### 🛡️ Security Advisories & Contributions
+
+**Published CVEs & GitHub Security Advisories**
+- 🔴 **[PicPeak (Critical)]** Admin Account Takeover via Malicious Backup Restore ([GHSA-qxfx-4493-4v8f](https://github.com/PicPeak/picpeak/security/advisories/GHSA-qxfx-4493-4v8f))
+- 🟡 **[PicPeak (Moderate)]** ZIP Slip in Archive Restore ([GHSA-jfhw-fj23-fx6x](https://github.com/PicPeak/picpeak/security/advisories/GHSA-jfhw-fj23-fx6x))
+- 🟡 **[PicPeak (Moderate)]** Path Traversal via Unsanitized Filename ([GHSA-pc72-jf53-w28j](https://github.com/PicPeak/picpeak/security/advisories/GHSA-pc72-jf53-w28j))
+- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-346c-gqqq-mrm2](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-346c-gqqq-mrm2))
+- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-g53q-v2pv-xr83](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g53q-v2pv-xr83))
+- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-x38q-xhjj-jr8w](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-x38q-xhjj-jr8w))
+- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-9372-vj68-hmc3](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-9372-vj68-hmc3))
+- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-qf9q-2hxm-4wh9](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-qf9q-2hxm-4wh9))
+
+**Open Source Security Contributions**
+- 🔴 **[Pennyw0rth/NetExec]** Patched critical SSH threading race conditions and Pre2k Directory Traversal vulnerabilities.
+- 🔵 **[SigmaHQ/sigma]** Developed and contributed detection rules for eBPF rootkit persistence and abuse.
+- 🔵 **[stamparm/maltrail]** Contributed fixes for false positives in network traffic detection heuristics.
+
+---
+
+### 💻 Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,bash,linux,docker,git,tensorflow)](https://skillicons.dev)
+
+---
+
+### 👨‍💻 Active Projects
+
+<p align="center">
+  <a href="https://github.com/Char0n1507/C.O.R.E">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=C.O.R.E&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="C.O.R.E"/>
+  </a>
+  <a href="https://github.com/Char0n1507/ARGUS">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=ARGUS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="ARGUS"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Char0n1507/EREBUS">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=EREBUS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="EREBUS"/>
+  </a>
+  <a href="https://github.com/Char0n1507/Omnisearch">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=Omnisearch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Omnisearch"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Char0n1507&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Language Stats" />
+  
+  <br><br>
 
-I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat Hunting, and Penetration Testing. 🛡️ I'm a passionate learner who loves exploring new vulnerabilities, building robust defense systems, and leveraging AI to automate SOC operations. 🚀 Apart from that, I also love contributing to the security community and developing advanced tools like C.O.R.E and ARGUS. 💻 I'm currently into **Red Teaming** ⚔️ and working on my **Adversary Emulation** skills 🎯.
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Char0n1507&theme=react&hide_border=true&bg_color=1F222E" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
-<h3 align="center">My GitHub Achievements 🏆</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Char0n1507&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=5&hide=Issues,PullRequest,Reviews" alt="Trophies" />
-</div>
-
----
-
-<h3 align="center">root@kali:~# cat /etc/security/advisories 🛡️</h3>
-
-> **Published CVEs & GitHub Security Advisories**
-> - 🔴 **[PicPeak (Critical)]** Admin Account Takeover via Malicious Backup Restore ([GHSA-qxfx-4493-4v8f](https://github.com/PicPeak/picpeak/security/advisories/GHSA-qxfx-4493-4v8f))
-> - 🟡 **[PicPeak (Moderate)]** ZIP Slip in Archive Restore ([GHSA-jfhw-fj23-fx6x](https://github.com/PicPeak/picpeak/security/advisories/GHSA-jfhw-fj23-fx6x))
-> - 🟡 **[PicPeak (Moderate)]** Path Traversal via Unsanitized Filename ([GHSA-pc72-jf53-w28j](https://github.com/PicPeak/picpeak/security/advisories/GHSA-pc72-jf53-w28j))
-> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-346c-gqqq-mrm2](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-346c-gqqq-mrm2))
-> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-g53q-v2pv-xr83](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g53q-v2pv-xr83))
-> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-x38q-xhjj-jr8w](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-x38q-xhjj-jr8w))
-> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-9372-vj68-hmc3](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-9372-vj68-hmc3))
-> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-qf9q-2hxm-4wh9](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-qf9q-2hxm-4wh9))
-
-> **Open Source Security Contributions**
-> - 🔴 **[Pennyw0rth/NetExec]** Patched critical SSH threading race conditions and Pre2k Directory Traversal/Arbitrary File Write vulnerabilities.
-> - 🔵 **[SigmaHQ/sigma]** Developed and contributed detection rules for eBPF rootkit persistence and abuse.
-> - 🔵 **[stamparm/maltrail]** Contributed fixes for false positives in network traffic detection heuristics.
-
----
-
-<h3 align="center">root@kali:~# ./skills.sh 💻</h3>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-<h3 align="center">System Telemetry 📊</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=2000&color=7aa2f7&center=true&vCenter=true&width=600&lines=[+]+SYSTEM+DIAGNOSTICS+OK;[+]+THREAT+LEVEL:+MIDNIGHT;[+]+INTRUSION+DETECTION:+ACTIVE" alt="System Diagnostics" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Char0n1507&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Char0n1507&theme=tokyo-night&hide_border=true&area=true&bg_color=000000" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-<h3 align="center">root@kali:~# ./active_operations.sh 🎯</h3>
-
-> 🔷 **[C.O.R.E.](https://github.com/Char0n1507/C.O.R.E)** <br>
-> `Enterprise AI SOC Agent` · *Automates detection, triage & response via LLMs.* <br>
-> **Stack:** `Python` `AI/LLM` `Automation`
-
-> 🔷 **[ARGUS](https://github.com/Char0n1507/ARGUS)** <br>
-> `Next-Gen NDR` · *Unsupervised Deep Learning to detect zero-day exploits.* <br>
-> **Stack:** `Python` `TensorFlow` `Scapy`
-
-> 🔷 **[EREBUS](https://github.com/Char0n1507/EREBUS)** <br>
-> `Dark Web OSINT` · *AI-Powered Tor crawling + local LLMs (Ollama).* <br>
-> **Stack:** `Python` `Tor` `LLM` `Streamlit`
-
-> 🔷 **[Omnisearch](https://github.com/Char0n1507/Omnisearch)** <br>
-> `Attack Surface Mapping` · *All-in-one passive recon & web probing utility.* <br>
-> **Stack:** `Python` `OSINT` `Recon`
-
----
-
-<h3 align="center">root@kali:~# ./audio_stream.sh 🎧</h3>
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314lnx7y5myfpd2rqkwntxq6cch4&count=3" alt="Spotify Recently Played" />
-</div>
-
----
-
-<h3 align="center">root@kali:~# ./ctf_telemetry.sh 🏆</h3>
+### 🏆 CTF & Achievements
 
 <div align="center">
   <p><code>[+] ACTIVE COMPETITIVE PROFILES</code></p>
@@ -131,7 +104,11 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 <br>
 
 <div align="center">
-  <a href="https://app.gitbook.com/o/OzCeXZoR6hIZ3S7aPLrj/s/d1x5yxrrjMQ55ObqBQ44">
-    <img src="https://img.shields.io/badge/GITBOOK-DECRYPT_CTF_WRITEUPS-000000?style=for-the-badge&logo=gitbook&logoColor=7aa2f7&labelColor=000000" alt="GitBook" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Char0n1507&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=5&hide=Issues,PullRequest,Reviews" alt="Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" alt="footer"/>
 </div>
