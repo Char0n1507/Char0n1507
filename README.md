@@ -57,31 +57,23 @@ Currently, I'm diving deep into **Red Teaming** ⚔️ and expanding my **Advers
 
 ### 👨‍💻 Active Projects
 
-<p align="center">
-  <a href="https://github.com/Char0n1507/C.O.R.E">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=C.O.R.E&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="C.O.R.E"/>
-  </a>
-  <a href="https://github.com/Char0n1507/ARGUS">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=ARGUS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="ARGUS"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Char0n1507/EREBUS">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=EREBUS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="EREBUS"/>
-  </a>
-  <a href="https://github.com/Char0n1507/Omnisearch">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Char0n1507&repo=Omnisearch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" align="center" alt="Omnisearch"/>
-  </a>
-</p>
+> 🔷 **[C.O.R.E.](https://github.com/Char0n1507/C.O.R.E)** <br>
+> `Enterprise AI SOC Agent` · *Automates detection, triage & response via LLMs.*
+
+> 🔷 **[ARGUS](https://github.com/Char0n1507/ARGUS)** <br>
+> `Next-Gen NDR` · *Unsupervised Deep Learning to detect zero-day exploits.*
+
+> 🔷 **[EREBUS](https://github.com/Char0n1507/EREBUS)** <br>
+> `Dark Web OSINT` · *AI-Powered Tor crawling + local LLMs (Ollama).*
+
+> 🔷 **[Omnisearch](https://github.com/Char0n1507/Omnisearch)** <br>
+> `Attack Surface Mapping` · *All-in-one passive recon & web probing utility.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Char0n1507&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Language Stats" />
-  
-  <br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Char0n1507&theme=react&hide_border=true&bg_color=1F222E" alt="Activity Graph" width="100%" />
 </div>
@@ -101,11 +93,7 @@ Currently, I'm diving deep into **Red Teaming** ⚔️ and expanding my **Advers
   </a>
 </div>
 
-<br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Char0n1507&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=5&hide=Issues,PullRequest,Reviews" alt="Trophies" />
-</div>
 
 <br>
 
