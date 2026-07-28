@@ -31,6 +31,22 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 
 ---
 
+<h3 align="center">root@kali:~# cat /etc/security/advisories 🛡️</h3>
+
+> **Published CVEs & GitHub Security Advisories**
+> - 🔴 **[InvoicePlane (Critical)]** Remote Code Execution via Local File Inclusion and Log Poisoning ([GHSA-g6rw-m9mf-33ch](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g6rw-m9mf-33ch))
+> - 🔴 **[PicPeak (Critical)]** Admin Account Takeover via Malicious Backup Restore ([GHSA-qxfx-4493-4v8f](https://github.com/PicPeak/picpeak/security/advisories/GHSA-qxfx-4493-4v8f))
+> - 🟠 **[PicPeak (High)]** Broken access control disclosing PII and gallery takeover ([GHSA-4j34-x562-5vfq](https://github.com/PicPeak/picpeak/security/advisories/GHSA-4j34-x562-5vfq))
+> - 🟡 **[InvoicePlane (Moderate)]** Multiple Stored XSS Vulnerabilities in Admin Panel & Invoice Views
+> - 🟡 **[PicPeak (Moderate)]** Path Traversal, ZIP Slip, and Authorization Bypass
+
+> **Open Source Security Contributions**
+> - 🔴 **[Pennyw0rth/NetExec]** Patched critical SSH threading race conditions and Pre2k Directory Traversal/Arbitrary File Write vulnerabilities.
+> - 🔵 **[SigmaHQ/sigma]** Developed and contributed detection rules for eBPF rootkit persistence and abuse.
+> - 🔵 **[stamparm/maltrail]** Contributed fixes for false positives in network traffic detection heuristics.
+
+---
+
 <h3 align="center">root@kali:~# ./skills.sh 💻</h3>
 
 <div align="center">
