@@ -36,11 +36,11 @@ Currently, I'm diving deep into **Red Teaming** ⚔️ and expanding my **Advers
 - 🔴 **[PicPeak (Critical)]** Admin Account Takeover via Malicious Backup Restore ([GHSA-qxfx-4493-4v8f](https://github.com/PicPeak/picpeak/security/advisories/GHSA-qxfx-4493-4v8f))
 - 🟡 **[PicPeak (Moderate)]** ZIP Slip in Archive Restore ([GHSA-jfhw-fj23-fx6x](https://github.com/PicPeak/picpeak/security/advisories/GHSA-jfhw-fj23-fx6x))
 - 🟡 **[PicPeak (Moderate)]** Path Traversal via Unsanitized Filename ([GHSA-pc72-jf53-w28j](https://github.com/PicPeak/picpeak/security/advisories/GHSA-pc72-jf53-w28j))
-- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-346c-gqqq-mrm2](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-346c-gqqq-mrm2))
-- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-g53q-v2pv-xr83](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g53q-v2pv-xr83))
-- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-x38q-xhjj-jr8w](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-x38q-xhjj-jr8w))
-- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-9372-vj68-hmc3](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-9372-vj68-hmc3))
-- 🔵 **[InvoicePlane]** Security Advisory ([GHSA-qf9q-2hxm-4wh9](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-qf9q-2hxm-4wh9))
+- 🔵 **[InvoicePlane]** High: CSRF (Recurring Invoice Stop via GET) ([GHSA-346c-gqqq-mrm2](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-346c-gqqq-mrm2))
+- 🔵 **[InvoicePlane]** Medium: CSRF (Missing Validation on Delete Endpoints) ([GHSA-g53q-v2pv-xr83](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g53q-v2pv-xr83))
+- 🔵 **[InvoicePlane]** Medium: IDOR (User Password Change) ([GHSA-x38q-xhjj-jr8w](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-x38q-xhjj-jr8w))
+- 🔵 **[InvoicePlane]** Low: Log Injection via Unsanitized Cron Key ([GHSA-9372-vj68-hmc3](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-9372-vj68-hmc3))
+- 🔵 **[InvoicePlane]** Low: Loose Type Comparison in Auth ([GHSA-qf9q-2hxm-4wh9](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-qf9q-2hxm-4wh9))
 
 **Open Source Security Contributions**
 - 🔴 **[Pennyw0rth/NetExec]** Patched critical SSH threading race conditions and Pre2k Directory Traversal vulnerabilities.
