@@ -34,11 +34,14 @@ I'm a **Cybersecurity Specialist** specializing in Detection Engineering, Threat
 <h3 align="center">root@kali:~# cat /etc/security/advisories 🛡️</h3>
 
 > **Published CVEs & GitHub Security Advisories**
-> - 🔴 **[InvoicePlane (Critical)]** Remote Code Execution via Local File Inclusion and Log Poisoning ([GHSA-g6rw-m9mf-33ch](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g6rw-m9mf-33ch))
 > - 🔴 **[PicPeak (Critical)]** Admin Account Takeover via Malicious Backup Restore ([GHSA-qxfx-4493-4v8f](https://github.com/PicPeak/picpeak/security/advisories/GHSA-qxfx-4493-4v8f))
-> - 🟠 **[PicPeak (High)]** Broken access control disclosing PII and gallery takeover ([GHSA-4j34-x562-5vfq](https://github.com/PicPeak/picpeak/security/advisories/GHSA-4j34-x562-5vfq))
-> - 🟡 **[InvoicePlane (Moderate)]** Multiple Stored XSS Vulnerabilities in Admin Panel & Invoice Views
-> - 🟡 **[PicPeak (Moderate)]** Path Traversal, ZIP Slip, and Authorization Bypass
+> - 🟡 **[PicPeak (Moderate)]** ZIP Slip in Archive Restore ([GHSA-jfhw-fj23-fx6x](https://github.com/PicPeak/picpeak/security/advisories/GHSA-jfhw-fj23-fx6x))
+> - 🟡 **[PicPeak (Moderate)]** Path Traversal via Unsanitized Filename ([GHSA-pc72-jf53-w28j](https://github.com/PicPeak/picpeak/security/advisories/GHSA-pc72-jf53-w28j))
+> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-346c-gqqq-mrm2](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-346c-gqqq-mrm2))
+> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-g53q-v2pv-xr83](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-g53q-v2pv-xr83))
+> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-x38q-xhjj-jr8w](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-x38q-xhjj-jr8w))
+> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-9372-vj68-hmc3](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-9372-vj68-hmc3))
+> - 🔵 **[InvoicePlane]** Security Advisory ([GHSA-qf9q-2hxm-4wh9](https://github.com/InvoicePlane/InvoicePlane/security/advisories/GHSA-qf9q-2hxm-4wh9))
 
 > **Open Source Security Contributions**
 > - 🔴 **[Pennyw0rth/NetExec]** Patched critical SSH threading race conditions and Pre2k Directory Traversal/Arbitrary File Write vulnerabilities.
